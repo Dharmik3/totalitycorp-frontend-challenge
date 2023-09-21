@@ -1,7 +1,7 @@
 # ShopBazzar Ecommerce
 
 ## 📌 Live Demo
-
+https://totalitycorp-frontend-challenge-rust-one.vercel.app/
 
 ## 😎 Features
 
