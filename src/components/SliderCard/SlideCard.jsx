@@ -14,7 +14,7 @@ const SlideCard = ({title,desc,cover}) => {
             </Link>
           </Col>
           <Col md={6}>
-            <img src={cover} alt="#" />
+            <img src={cover} alt="hero image" />
           </Col>
         </Row>
 
